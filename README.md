@@ -1,5 +1,5 @@
 # ZohoInventory-UPSWorldShip-Integration
-Collection of scripts that 1) insert tracking numbers from UPS WorldShip exported CVS into Zoho Inventory and 2) mark shipments as delivered. These scripts leverage the Zoho Inventory v1 API and the UPS API.
+Collection of scripts that 1) insert tracking numbers from UPS WorldShip exported CSV into Zoho Inventory and 2) mark shipments as delivered. These scripts leverage the Zoho Inventory v1 API and the UPS API.
 
 Run these scripts on your own risk - no warranty!
 
