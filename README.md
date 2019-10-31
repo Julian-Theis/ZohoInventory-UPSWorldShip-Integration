@@ -4,7 +4,7 @@ Collection of scripts that 1) insert tracking numbers from UPS WorldShip exporte
 Run these scripts on your own risk - no warranty!
 
 # Requirements
-The scripts require the *packagetracker* package that can be found here: https://github.com/alertedsnake/packagetracker
+These scripts require the installation and setup of the *packagetracker* package which can be found here: https://github.com/alertedsnake/packagetracker
 
 # Usage
 ## Insert Tracking Numbers from WorldShip CSV File
