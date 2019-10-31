@@ -15,7 +15,7 @@ After creating your labels and tracking numbers using WorldShip, export a CSV fi
 4. Organization
 5. Shipment Number
 
-An example file can be found here.
+An example file can be found [here](https://github.com/Julian-Theis/ZohoInventory-UPSWorldShip-Integration/blob/master/files/UPS_WorldShip_Export.csv).
 
 Then run the script with the following parameters:
 ```
