@@ -28,3 +28,5 @@ Then run the script with the following parameters:
 ```
 python app_UpsUpdateTracking.py -a <authtoken> -o <organization id> -log <destination of log file>
 ```
+
+[![HitCount](http://hits.dwyl.io/Julian-Theis/ZohoInventory-UPSWorldShip-Integration.svg)](http://hits.dwyl.io/Julian-Theis/ZohoInventory-UPSWorldShip-Integration)
